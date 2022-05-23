@@ -1,0 +1,10 @@
+ What has changed? What do you think the > in the previous statement did when combined with the ls command?:
+ When you type the ls command again a new file has been added called newfile.txt. I think the > in the command was saying to list all available directories into newfile.txt
+ 
+ 
+ What does it say about newfile.txt? Git Status:
+Git status tells me the tracked an untracked files and also tells me which files will be commited and which files will not be commited.
+
+
+ Now run the command git diff. What does this command tell you about your files and their contents?:
+ This tells me the index but it also tells me that the line I had just typed was added to the contents of newfile.txt
